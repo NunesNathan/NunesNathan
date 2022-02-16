@@ -13,10 +13,10 @@
 <br />
 
 <div style="max-width: 900px; margin: auto;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=alistar-reactjs&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=trivia-game&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=SummerJob-DesafioPratico&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=portifolio-web-react&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=alistar-reactjs&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=20" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=trivia-game&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=20" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=SummerJob-DesafioPratico&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=20" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=portifolio-web-react&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=20" >
 </div>
 
 <br />
