@@ -1,14 +1,19 @@
 ## 👋🏽Hi there
 
-### <> I am </>
+```html
+<> 
+  <h2>I am</h2>
 
-> 😄 Nathan Nunes 😄
+    <p>😄 Nathan Nunes 😄</p>
 
-> 🇧🇷 Brazilian 🇧🇷
+    <p> 🇧🇷 Brazilian 🇧🇷</p>
 
-> 👨🏽‍💻 Front-end web dev junior 👨🏽‍💻
+    <p> 👨🏽‍💻 Front-end web dev junior 👨🏽‍💻</p>
 
-> 💭 Looking for something bigger 💭
+    <p> 💭 Looking for something bigger 💭</p>
+
+</>
+```
 
 <br />
 
