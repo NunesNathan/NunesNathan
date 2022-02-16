@@ -39,7 +39,9 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nathannunes-/">
-  <img align="center" alt="Nathan Nunes LinkedIn" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-53-227912.png" />
-</a>
+    <img width="90px" align="center" alt="Nathan Nunes LinkedIn" src="https://www.glintinc.com/wp-content/uploads/2017/09/casestudy-linkedin-logo-grey.png" />
+  </a>
+</div>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=nunesnathan&color=313131">
 </div>
