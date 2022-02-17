@@ -18,10 +18,19 @@
 <br />
 
 <div style="max-width: 900px; margin: auto;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=alistar-reactjs&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=trivia-game&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=SummerJob-DesafioPratico&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=portifolio-web-react&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
+  <a src="https://github.com/NunesNathan/alistar-reactjs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=alistar-reactjs&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
+  </a>
+  <a src="https://github.com/NunesNathan/trivia-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=trivia-game&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
+  </a>
+  <a src="https://github.com/NunesNathan/SummerJob-DesafioPratico">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=SummerJob-DesafioPratico&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
+  </a>
+  <a src="https://github.com/NunesNathan/portifolio-web-react">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=portifolio-web-react&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
+  </a>
+
 </div>
 
 <br />
