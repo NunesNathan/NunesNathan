@@ -4,7 +4,7 @@
 <> 
   <h2>I am</h2>
 
-    <p>😄 Nathan Nunes 😄</p>
+    <p> 😄 Nathan Nunes 😄</p>
 
     <p> 🇧🇷 Brazilian 🇧🇷</p>
 
