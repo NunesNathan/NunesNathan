@@ -45,7 +45,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nunesnathan&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131">
+  <img src="https://github-readme-stats.vercel.app/api?username=nunesnathan&cache_seconds=1800&count_private=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesnathan&hide_langs_below=.25&title_color=6b92ab&text_color=eee&bg_color=313131&layout=compact">
