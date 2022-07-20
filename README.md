@@ -8,7 +8,7 @@
 
     <p> 🇧🇷 Brazilian 🇧🇷</p>
 
-    <p> 👨🏽‍💻 Front-end web dev junior 👨🏽‍💻</p>
+    <p> 👨🏽‍💻 Full stack web dev junior 👨🏽‍💻</p>
 
     <p> 💭 Looking for something bigger 💭</p>
 
@@ -38,9 +38,9 @@
 
 <div>
 
-  <p>- 👨🏽‍🦱 I'm a full-stack web developer student at trybe and a technology lover. I am also passionate about history, art and the possibility to change the world.<br />
+  <p>- 👨🏽‍🦱 I'm a full stack web developer student at trybe and a technology lover. I am also passionate about history, art and the possibility to change the world.<br />
   - 💬 I decided to become a developer because I love the ideia of creating anything, help anyone on anywhere and change the future.<br />
-  - 🌱 I am looking for my first experience as web developer, I'm front-end developer by <a href="https://www.betrybe.com/">Trybe</a> and have, at least, 9 projects using ReactJs. I'm in continuous learning and I respect it.<br />
+  - 🌱 I am looking for my first experience as web developer, I'm full stack developer and I take part in a Java acceleration by <a href="https://www.betrybe.com/">Trybe</a> and have, at least, 11 front-end projects and 14 back-end projects. I'm in continuous learning and I respect it.<br />
   - 🔎 If you are a Recruiter, I would appreciate your opinion about me and I would love to work together on your squad/team!</p>
 </div>
 
