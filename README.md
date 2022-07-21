@@ -8,7 +8,7 @@
 
     <p> 🇧🇷 Brazilian 🇧🇷</p>
 
-    <p> 👨🏽‍💻 Full stack web dev junior 👨🏽‍💻</p>
+    <p> 👨🏽‍💻 Full stack dev junior 👨🏽‍💻</p>
 
     <p> 💭 Looking for something bigger 💭</p>
 
