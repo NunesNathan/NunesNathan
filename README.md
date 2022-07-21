@@ -4,13 +4,13 @@
 <> 
   <h2>I am</h2>
 
-    <p> 😄 Nathan Nunes 😄</p>
+    <p>😄 Nathan Nunes 😄</p>
 
-    <p> 🇧🇷 Brazilian 🇧🇷</p>
+    <p>🇧🇷 Brazilian 🇧🇷</p>
 
-    <p> 👨🏽‍💻 Full stack dev junior 👨🏽‍💻</p>
+    <p>👨🏽‍💻 Full stack dev junior 👨🏽‍💻</p>
 
-    <p> 💭 Looking for something bigger 💭</p>
+    <p>💭 Looking for something bigger 💭</p>
 
 </>
 ```
