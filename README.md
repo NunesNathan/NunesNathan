@@ -27,8 +27,8 @@
   <a href="https://github.com/NunesNathan/SummerJob-DesafioPratico">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=SummerJob-DesafioPratico&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
   </a>
-  <a href="https://github.com/NunesNathan/WiproJava-Gestao-Time">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=WiproJava-Gestao-Time&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
+  <a href="https://github.com/NunesNathan/DroneFeeder>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=DroneFeeder&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
   </a>
 
 </div>
