@@ -19,16 +19,16 @@
 
 <div style="max-width: 900px; margin: auto;" align="center">
   <a href="https://github.com/NunesNathan/Trybe-Futebol-Clube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=Trybe-Futebol-Clube&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
+    <img src="https://github-readme-stats-liard-theta.vercel.app/api/pin/?username=nunesnathan&repo=Trybe-Futebol-Clube&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
   </a>
   <a href="https://github.com/NunesNathan/trivia-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=trivia-game&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
+    <img src="https://github-readme-stats-liard-theta.vercel.app/api/pin/?username=nunesnathan&repo=trivia-game&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
   </a>
   <a href="https://github.com/NunesNathan/SummerJob-DesafioPratico">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=SummerJob-DesafioPratico&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
+    <img src="https://github-readme-stats-liard-theta.vercel.app/api/pin/?username=nunesnathan&repo=SummerJob-DesafioPratico&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
   </a>
   <a href="https://github.com/NunesNathan/DroneFeeder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nunesnathan&repo=DroneFeeder&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
+    <img src="https://github-readme-stats-liard-theta.vercel.app/api/pin/?username=nunesnathan&repo=DroneFeeder&show_owner=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131&card_width=21" >
   </a>
 
 </div>
@@ -45,10 +45,10 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nunesnathan&cache_seconds=1800&count_private=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131">
+  <img src="https://github-readme-stats-liard-theta.vercel.app/api?username=nunesnathan&cache_seconds=1800&count_private=true&show_icons=true&title_color=6b92ab&icon_color=6b92ab&text_color=eee&bg_color=313131">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesnathan&langs_count=6&title_color=6b92ab&text_color=eee&bg_color=313131&layout=compact">
+  <img src="https://github-readme-stats-liard-theta.vercel.app/api/top-langs/?username=nunesnathan&langs_count=6&title_color=6b92ab&text_color=eee&bg_color=313131&layout=compact">
 </p>
 
 <div align="center">
