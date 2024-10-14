@@ -41,7 +41,7 @@
   <p>- 👨🏽‍🦱 I'm a software developer and a technology lover. I am also passionate about history, art and the possibility to change the world.<br />
   - 💬 I decided to become a developer because I love the idea of creating anything, help anyone on anywhere and make the future.<br />
   - 🎓 I am Web Developer by <a href="https://www.betrybe.com/">Trybe</a> and have also completed an intensive course in Java at Trybe as well.<br />
-  - 🌱 I am looking for new experiences as software developer, I have profissional experience with C# .net, Node.js, Nest.js, Next.js, Typescript, React and Godot 4.0. I'm in continuous learning and I respect it.<br />
+  - 🌱 I am looking for new experiences as software developer, I have profissional experience with Typescript, React, Nest.js, Java, C#, .net, Node.js and Next.js. I'm in continuous learning and I respect it.<br />
   - 🔎 If you are a Recruiter, I would appreciate your opinion about me and I would love to work together on your squad/team!</p>
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nathannunes-/">
-    <img width="90px" align="center" alt="Nathan Nunes LinkedIn" src="https://www.glintinc.com/wp-content/uploads/2017/09/casestudy-linkedin-logo-grey.png" />
+   linkedin
   </a>
 </div>
 <div align="center">
